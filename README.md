@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yttrew" alt="yttrew" /></a> </p>
 
+- 📚 I’m currently studying at the University of Granada
 - 📫 How to reach me **carlosferar@correo.ugr.es**
 
 <h3 align="left">Connect with me:</h3>
