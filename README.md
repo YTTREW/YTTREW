@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Carlos Fernández and I'm a motivational software engineer, from Spain.</h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi 👋! My name is Carlos Fernández and I'm a motivational software engineer" width="70%" />
+
 <h3 align="left">🎯 Stats</h3>
 <div align="center">
   <img   src="https://github-readme-stats.vercel.app/api?username=yttrew&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
@@ -43,5 +45,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/YTTREW/YTTREW/output/snake.svg" alt="Snake animation" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
 
