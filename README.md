@@ -45,4 +45,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/YTTREW/YTTREW/output/snake.svg" alt="Snake animation" />
-
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
