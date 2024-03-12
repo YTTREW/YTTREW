@@ -22,7 +22,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+###
 
+<img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
+
+###
 ###
 
 <div align="left">
@@ -39,12 +43,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
-
-###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/YTTREW/YTTREW/output/snake.svg" alt="Snake animation" />
