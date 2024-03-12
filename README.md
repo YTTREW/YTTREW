@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Carlos Fernández and I'm a motivational software engineer, from Spain.</h2>
 
 <div align="center">
-  <img   src="https://komarev.com/ghpvc/?username=yttrew&label=Profile%20views&color=0e75b6&style=flat" height="150" alt="stats graph"  />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yttrew&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YTTREW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
