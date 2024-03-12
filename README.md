@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi 👋! My name is Carlos; and I'm a motivational software engineer" width="70%" /> 
 </div>
 
-<h3 align="left">🎯 Stats</h3>
+<h2 align="left">🎯 Stats</h2>
 <div align="center">
   <img   src="https://github-readme-stats.vercel.app/api?username=yttrew&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
   <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=YTTREW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  height="150" alt="languages graph"  />
