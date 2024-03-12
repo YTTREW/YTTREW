@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Carlos Fernández and I'm a motivational software engineer, from Spain.</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi 👋!; My name is Carlos Fernández and ;I'm a motivational software engineer" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi 👋! My name is Carlos Fernández and ;I'm a motivational software engineer" width="70%" />
 
 <h3 align="left">🎯 Stats</h3>
 <div align="center">
