@@ -15,7 +15,6 @@
   <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=YTTREW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" style="margin-top: 80px;" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
 
 <h2 align="left">🛠 Language and tools</h2>
 <div align="left">
@@ -32,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+ <img align="right" height="150" style="margin-top: 80px;" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
+
 </div>
 
 <br>
