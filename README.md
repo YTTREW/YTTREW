@@ -2,6 +2,13 @@
  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi 👋! My name is Carlos; and I'm a motivational software engineer" width="70%" /> 
 </div>
 
+<h2 align="left">📝 About me</h2>
+<div align="left">
+ <p >📚 I'm currently learning  Computer Engineering at UGR, specializing in Software Engineering.<br> 🎯 Goals: To work on challenging software projects and contribute to the field of computer science.<br> 🚀 Passions: I'm passionate about exploring  
+ new technologies and finding creative solutions to complex problems.</p>
+</div>
+
+
 <h2 align="left">🎯 Stats</h2>
 <div align="center">
   <img   src="https://github-readme-stats.vercel.app/api?username=yttrew&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
@@ -11,7 +18,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -30,7 +37,7 @@
 
 <br>
 
-<h3 align="left">🔗 Socials</h3>
+<h2 align="left">🔗 Socials</h2>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCuJGYAp2dtMMCz9ZL3NaZMw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
