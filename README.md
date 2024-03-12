@@ -16,7 +16,6 @@
 </div>
 
 
-<img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
 
 <h2 align="left">🛠 Language and tools</h2>
 <div align="left">
@@ -34,6 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+<img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
 
 <br>
 
