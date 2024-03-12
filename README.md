@@ -45,13 +45,8 @@
 <img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif"  />
 
 
-
-
-
-
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YTTREW/YTTREW/output/snake.svg" alt="Snake animation" />
 
 ###
